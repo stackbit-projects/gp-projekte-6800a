@@ -126,9 +126,5 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-  - title: lorem-ipsum
-    team:
-      - src/data/team/person-vbabjuaz4.json
-    type: team_section
 template: advanced
 ---
