@@ -29,7 +29,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/gp projekte gmbh.svg"
     },
     "footer": {
         "has_nav": true,
