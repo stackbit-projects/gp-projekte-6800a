@@ -77,10 +77,7 @@ sections:
         align: left
         image: images/projektierung.png
         image_position: left
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
       - title: Bau & Inbetriebnahme
         content: >-
           Auch bei der Umsetzung des Netzausbaus halten wir für Sie die Zügel in
