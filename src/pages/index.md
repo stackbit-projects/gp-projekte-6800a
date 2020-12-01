@@ -24,10 +24,29 @@ sections:
     title: Unsere Leistungen
     features:
       - title: Planung
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Ein erfolgreiches Projekt beginnt mit einem guten Plan. Damit Ihr
+          Projekt auf einer sicheren Basis steht, übernehmen wir für Sie die
+          komplette Planung des Netzes. 
+
+
+          Ganz gleich, ob Sie dabei schon bestimmte Vorgaben für uns haben, oder
+          ob wir die Rahmendaten für das Breitbandnetz selbst erheben – wir
+          berücksichtigen sämtliche Faktoren für eine fundierte Planung. Dazu
+          gehört u.a. die Erstellung eines Glasfaserkatasters, in das sämtliche
+          Geo-Daten über das Ausbaugebiet und Informationen über die aktuelle
+          Versorgungssituation einfließen. Darauf aufbauend können wir das
+          optimale Kabelnetz samt Trassenführung für Ihr Projekt entwerfen.
+          Außerdem holen wir die Baugenehmigungen bei Kommune, Land und den
+          zuständigen Behörden ein und prüfen für Sie potenzielle
+          Fördermöglichkeiten. Parallel dazu haben wir auch die bereits
+          vorhandene Infrastruktur im Blick, sodass sich Bestandsnetze
+          integrieren und Mitverlegearbeiten problemlos koordinieren lassen. 
+
+
+          Anhand unseres erstellten Konzepts können wir Ihnen präzise Kennzahlen
+          zu den Ausbaukosten und zum Zeitrahmen nennen – für Ihre
+          Planungssicherheit!
         align: left
         image: images/feature.svg
         image_position: right
