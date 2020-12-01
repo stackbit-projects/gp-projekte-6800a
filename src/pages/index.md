@@ -23,7 +23,7 @@ sections:
   - type: features_section
     title: Unsere Leistungen
     features:
-      - title: Feature 1
+      - title: Planung
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
