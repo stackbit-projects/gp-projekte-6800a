@@ -56,9 +56,27 @@ sections:
             style: secondary
       - title: Projektierung
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Eine gute Vorbereitung ist schon die halbe Miete für eine erfolgreiche
+          Projektumsetzung. Mit dem Ansatz, unseren Kunden stets die
+          effizienteste Lösung für ihren Netzausbau zu liefern, prüfen wir vorab
+          ganz genau, welche Ausbautechnik und welches Material für das
+          jeweilige Projekt passend ist. 
+
+
+          Darüber hinaus entwerfen wir einen Spleißplan, der genau festlegt, wo
+          das Glasfaserkabel ankommt und wie es im Ausbaugebiet verteilt wird.
+          Außerdem stellen wir sämtliche erforderlichen Tiefbauarbeiten zusammen
+          wie Pflügen, Fräsen sowie die Verlegung der Kabel. Dabei kommen, je
+          nach Vor-Ort-Bedingungen, ganz unterschiedliche Methoden zum Einsatz,
+          wie beispielsweise Spühl-Bohrungen, Pressing bis an die Hauswand oder
+          das Trenchingverfahren. Dabei ist es für uns immer ein wichtiges
+          Anliegen, die Beeinträchtigungen für die Anschlussnehmer durch die
+          Bauarbeiten auf ein Minimum zu reduzieren. 
+
+
+          Für die jeweiligen Arbeiten kontaktieren wir für Sie die verschiedenen
+          Gewerke und Dienstleister, bewerten die entsprechenden Angebote und
+          wählen die für Ihr Projekt perfekten Partner aus. 
         align: left
         image: images/feature.svg
         image_position: left
