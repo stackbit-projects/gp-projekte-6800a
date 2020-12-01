@@ -1,25 +1,6 @@
 ---
 title: Home
 sections:
-  - type: hero_section
-    title: Willkommen bei GP Projekte!
-    subtitle: >-
-      Sie sind auf der Suche nach einem zuverlässigen Partner für den
-      Breitbandausbau?  Dann sind Sie bei uns genau richtig!
-    actions:
-      - label: Kontakt aufnehmen
-        url: /contact
-        style: secondary
-    align: left
-    image: images/bauarbeiter.png
-    image_position: right
-    has_background: true
-    background:
-      background_color: blue
-      background_image: images/diagonal-lines.svg
-      background_image_opacity: 20
-      background_image_size: auto
-      background_image_repeat: repeat
   - title: Über uns
     content: >
       Egal ob für den gewerblichen oder den privaten Gebrauch – die schnelle
