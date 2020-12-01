@@ -48,7 +48,7 @@ sections:
           zu den Ausbaukosten und zum Zeitrahmen nennen – für Ihre
           Planungssicherheit!
         align: left
-        image: images/feature.svg
+        image: images/planung.png
         image_position: right
         actions:
           - label: Learn More
