@@ -7,9 +7,6 @@ sections:
       Sie sind auf der Suche nach einem zuverlässigen Partner für den
       Breitbandausbau?  Dann sind Sie bei uns genau richtig!
     actions:
-      - label: Learn More
-        url: /features
-        style: primary
       - label: Contact Us
         url: /contact
         style: secondary
