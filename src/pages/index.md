@@ -7,7 +7,7 @@ sections:
       Sie sind auf der Suche nach einem zuverlässigen Partner für den
       Breitbandausbau?  Dann sind Sie bei uns genau richtig!
     actions:
-      - label: Contact Us
+      - label: Kontakt aufnehmen
         url: /contact
         style: secondary
     align: left
