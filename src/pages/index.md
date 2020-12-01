@@ -50,10 +50,7 @@ sections:
         align: left
         image: images/planung.png
         image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
       - title: Projektierung
         content: >-
           Eine gute Vorbereitung ist schon die halbe Miete für eine erfolgreiche
