@@ -78,7 +78,7 @@ sections:
           Gewerke und Dienstleister, bewerten die entsprechenden Angebote und
           wählen die für Ihr Projekt perfekten Partner aus. 
         align: left
-        image: images/feature.svg
+        image: images/projektierung.png
         image_position: left
         actions:
           - label: Learn More
