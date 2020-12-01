@@ -112,7 +112,7 @@ sections:
           Netz, sodass Sie und ihre Kunden immer auf dem aktuellen Stand der
           Dinge sind.  
         align: left
-        image: images/bau.jpeg
+        image: images/bau2.jpeg
         image_position: right
         actions: []
       - title: lorem-ipsum
