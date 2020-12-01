@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Willkommen bei GP Projekte!
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Sie sind auf der Suche nach einem zuverlässigen Partner für den
+      Breitbandausbau?  Dann sind Sie bei uns genau richtig!
     actions:
       - label: Learn More
         url: /features
