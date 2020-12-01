@@ -114,10 +114,7 @@ sections:
         align: left
         image: images/feature.svg
         image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
       - title: lorem-ipsum
         content: >-
           ## Lorem ipsum
