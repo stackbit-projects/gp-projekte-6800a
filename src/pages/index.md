@@ -86,9 +86,37 @@ sections:
             style: secondary
       - title: Bau & Inbetriebnahme
         content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+          Auch bei der Umsetzung des Netzausbaus halten wir für Sie die Zügel in
+          der Hand. 
+
+
+          Wir begleiten die Baustellen vor Ort bei den Tiefbauarbeiten sowie
+          beim Verlegen und Anschließen der Glasfaserkabel. Regelmäßig stimmen
+          wir uns mit den beauftragten Gewerken über den Stand der Dinge ab. So
+          bleiben wir für Sie immer auf dem Laufenden und können im Fall der
+          Fälle umgehend flexibel reagieren und Pläne optimieren. Fester
+          Bestandteil sind dabei auch eine kontinuierliche Qualitätskontrolle
+          und ein regelmäßiges Reporting. 
+
+
+          Dadurch garantieren wir Ihnen eine termingerechte Fertigstellung des
+          Netzes. 
+
+
+          Unser Servicepaket endet noch längst nicht beim Bau des Netzes,
+          sondern wir sorgen auch dafür, dass Ihre Endkunden schnell ans fertige
+          Breitbandnetz angeschlossen werden. Dazu kontaktieren wir alle
+          Anschlussnehmer vorab und besprechen mit ihnen, wie und wo ihr
+          Hausanschluss ans Glasfasernetz aussieht. 
+
+
+          Auch die Abnahme mit den zuständigen Behörden und den Kommunen selbst
+          gehört zu unserem Servicepaket. 
+
+
+          Darüber hinaus übergeben wir alle erforderlichen technischen Daten zum
+          Netz, sodass Sie und ihre Kunden immer auf dem aktuellen Stand der
+          Dinge sind.  
         align: left
         image: images/feature.svg
         image_position: right
