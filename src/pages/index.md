@@ -21,15 +21,52 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - title: Über uns
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Egal ob für den gewerblichen oder den privaten Gebrauch – die schnelle
+      Übertragung von Daten ist in Zeiten der Digitalisierung unerlässlich.
+      Stets online sein zu können, ist für jede Kommune ein wichtiger
+      Standortfaktor, um als Wohnort, aber auch als starker Wirtschaftsstandort
+      attraktiv zu bleiben. Voraussetzung dafür ist eine starke, flächendeckende
+      Infrastruktur. 
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+      #
 
-      - Lorem ipsum
+      Wir, die GP Projekte GmbH aus Nordkirchen, agieren als Dienstleister für
+      leistungsfähige Netze aus Glasfaser und Kupfer. Dabei übernehmen wir
+      sämtliche Aufgaben, angefangen bei der Planung der Netze über die
+      Projektierung und die Koordination der für den schlüsselfertigen Bau
+      benötigten Gewerke bis hin zur Inbetriebnahme mit dem Netzanschluss der
+      Endkunden. 
 
-      - dolor sit amet
+
+      Die Köpfe hinter der GP Projekte GmbH – Hansjörg Pätz und Markus Gote –
+      haben mehr als 40 Jahre Erfahrung in der Kommunikationstechnik sowie in
+      der Planung und im Management von Netzausbauprojekten. Deutschlandweit
+      unterstützen wir diverse Netzbetreiber beim Aufbau ihrer
+      hochleistungsfähigen Infrastruktur, wie zum Beispiel die Deutsche
+      Glasfaser, Vodafone, Versatel oder Telecolumbus, aber auch
+      Stadtnetzbetreiber von Hamburg bis München. 
+
+
+      Durch unsere jahrelange Erfahrung im eigenwirtschaftlichen Netzausbau
+      sowie im geförderten Ausbau verfügen wir über ein fundiertes Fachwissen
+      und sind bestens in der Branche vernetzt. 
+
+      #
+
+      Und genau das ist Ihr Vorteil: Wir haben für Sie den Markt im Blick und
+      können daher sämtliche Gewerke, wie zum Beispiel Tiefbauunternehmen, immer
+      zu den besten Konditionen akquirieren. Dank unseres großen Netzwerks zu
+      diversen, qualifizierten Partnern sind Materialengpässe für uns ein
+      Fremdwort. 
+
+      # 
+
+      Wir erstellen das individuell auf Ihr Projekt zugeschnittene
+      Materialkonzept, dokumentieren sämtliche Schritte gemäß Fördervorgabe und
+      stellen Ihnen alle relevanten Daten zur Verfügung – so garantieren wir
+      Ihnen während der gesamten Projektlaufzeit höchste Transparenz und
+      Zuverlässigkeit. 
     type: content_section
   - type: features_section
     title: Unsere Leistungen
